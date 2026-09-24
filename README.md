@@ -8,8 +8,8 @@ A minimal, fast, local-first productivity web app built with Bun, React, TypeScr
 - **Goals** - Create goals with optional milestones, auto-calculated progress bars
 - **Habits** - Daily or weekly frequency, 7-day tracking grid, streak counting
 - **Journal** - Free-text entries with mood/emotion selector, auto-dated
-- **Pomodoro** - Classic 25/5 timer with start/pause/reset, session logging linked to tasks
-- **Analytics** - Dark theme with anime illustration, focus hours, task time tracking, mood analytics, streak stats
+- **Pomodoro** - Classic 25/5 timer with start/pause/reset, ...
+- **Analytics** - Focus hours, task time tracking, mood analytics, streak stats
 
 ## Tech Stack
 
